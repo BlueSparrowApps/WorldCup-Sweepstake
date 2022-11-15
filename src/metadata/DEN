@@ -1,0 +1,9 @@
+{
+    "name": "Denmark",
+    "description": "NFT country for the World Cup 2022 Sweepstake competition",
+    "attributes": [ {
+        "trait_type": "TeamId", 
+        "value": "DEN"
+        } ],
+    "image": "https://gateway.pinata.cloud/ipfs/QmRgcMxzmUv8hjfP3914NNNRGj9pz4Fa4zyVMh9Ug7amNE/dk.svg"
+}
